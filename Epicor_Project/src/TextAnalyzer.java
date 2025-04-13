@@ -17,7 +17,8 @@ public class TextAnalyzer {
         long startTime = System.currentTimeMillis();
 
         // Path of the sample file
-        String path = "C:\\RakeshPersonalData\\Epicor\\RakeshDemo\\src\\moby.txt";
+        //String path = "C:\\RakeshPersonalData\\Epicor\\RakeshDemo\\src\\moby.txt";
+        String path = "C:\\RakeshPersonalData\\EpicorProject\\aback_abreast_0.393s\\Epicor_Project\\src\\resources\\moby.txt";
 
         try {
             // Read the data in the file
